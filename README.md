@@ -1,7 +1,3 @@
-Here’s the **English version** of your README file, designed with proper Markdown formatting for clear readability:  
-
----
-
 # Crop Recommendation System 🌾  
 
 A **Crop Recommendation System** that predicts the most suitable crop to grow based on environmental parameters. This project uses **machine learning** to assist farmers in making data-driven decisions, enhancing crop productivity.  
@@ -159,6 +155,3 @@ This project is licensed under the **MIT License**. Feel free to use it in your 
 - Thanks to **Kaggle** for providing the dataset.  
 - Gratitude to the **Scikit-learn** and **Flask communities** for excellent documentation and support.  
 
----
-
-Save this as `README.md` and push it to your GitHub repository. 😊
